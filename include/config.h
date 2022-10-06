@@ -13,5 +13,4 @@ const int64_t START_TIMESTAMP = 1665022334943969;
 
 const std::string CRITICAL_TIME_EXCEEDED_MSG =
     "It doesn't work for long period. Last data point was at: ";
-const std::string IT_WORKS_AGAIN_MSG =
-    "It works again! Last data point was at: ";
+const std::string IT_WORKS_AGAIN_MSG = "It works again! Last data point was at: ";

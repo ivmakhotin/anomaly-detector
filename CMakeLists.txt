@@ -9,6 +9,7 @@ include_directories(include)
 set(SOURCE_FILES
         include/exceptions.h
         include/config.h
+        include/detector.h
         src/main.cpp
 )
 
